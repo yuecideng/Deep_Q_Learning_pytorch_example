@@ -9,5 +9,8 @@ Simple DQN example using Pytorch (transfer from this [Github Page](https://githu
 - Download the three .py files 
 - Run 'run_this.py' and see the result of Deep Reinforcement learning in small game.
 
+## Acknowledgment
+Morvan Zhou - Reinforement learning tutorials
+
 
 
